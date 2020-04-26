@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<Ejercicio 1 (2)>",
+            "request": "launch",
+            "mainClass": "main.Main",
+            "projectName": "Ejercicio 1 (2)"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<Ejercicio 1 (3)>",
+            "request": "launch",
+            "mainClass": "main.Main",
+            "projectName": "Ejercicio 1 (3)"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<Ejercicio 1 (4)>",
+            "request": "launch",
+            "mainClass": "main.Main",
+            "projectName": "Ejercicio 1 (4)"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<Ejercicio 1 (5)>",
+            "request": "launch",
+            "mainClass": "main.Main",
+            "projectName": "Ejercicio 1 (5)"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<Ejercicio 1 (6)>",
+            "request": "launch",
+            "mainClass": "main.Main",
+            "projectName": "Ejercicio 1 (6)"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<Ejercicio 1>",
+            "request": "launch",
+            "mainClass": "main.Main",
+            "projectName": "Ejercicio 1"
+        }
+    ]
+}
